@@ -1,0 +1,29 @@
+{
+  "name": "atvidade1ppi",
+  "version": "1.0.0",
+  "description": "Tabuada",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YagoAvellar/Atvidade1PPI.git"
+  },
+  "keywords": [
+    "NODE",
+    "HTTP",
+    "PP1"
+  ],
+  "author": "Yago Avellar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YagoAvellar/Atvidade1PPI/issues"
+  },
+  "homepage": "https://github.com/YagoAvellar/Atvidade1PPI#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
